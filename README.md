@@ -13,6 +13,8 @@
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lerouxrgd/datachannel-rs?style=social">
 * **[lerouxrgd/ngt-rs](https://github.com/lerouxrgd/ngt-rs)** Rust wrappers for NGT approximate nearest neighbor search
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lerouxrgd/ngt-rs?style=social">
+* **[lerouxrgd/bevy_mod_aseprite](https://github.com/lerouxrgd/bevy_mod_aseprite)** A plugin for using Aseprite animations in Bevy
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lerouxrgd/bevy_mod_aseprite?style=social">
 
 ### Experiments
 
