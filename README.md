@@ -20,5 +20,7 @@
 
 * **[lerouxrgd/raytracer](https://github.com/lerouxrgd/raytracer)** The Ray Tracer Challenge implemented in Rust
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lerouxrgd/raytracer?style=social">
+* **[lerouxrgd/octads](https://github.com/lerouxrgd/octads)**  Rust no_std implementations of Advanced Data Structures
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lerouxrgd/octads?style=social">
 * **[lerouxrgd/angry-apes](https://github.com/lerouxrgd/angry-apes)** Small survival game coded for Bevy Jam #1
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lerouxrgd/angry-apes?style=social">
